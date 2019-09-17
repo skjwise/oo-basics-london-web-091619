@@ -13,5 +13,4 @@ class Shoe
     self.condition = "new"
   end
   
-  
 end
